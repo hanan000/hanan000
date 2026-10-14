@@ -80,7 +80,7 @@ AI engineer building **real-time voice agents and conversational AI** — from s
 
 <img src="https://streak-stats.demolab.com?user=hanan000&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanan000&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/7aa2f7/hanan000" alt="Contribution chart" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanan000/hanan000/output/snake-dark.svg" />
