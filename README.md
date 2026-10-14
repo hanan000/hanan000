@@ -1,6 +1,6 @@
-<div align="center">
+f<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Hanan+Abbas+%F0%9F%91%8B;AI+Engineer+%C2%B7+Voice+%26+Conversational+AI;LiveKit+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+NLP" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Hanan+%F0%9F%91%8B;AI+Engineer+%C2%B7+Voice+%26+Conversational+AI;LiveKit+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+NLP" alt="Typing intro" />
 
 <p>
   <img src="https://img.shields.io/badge/Commits-3%2C400%2B-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="3,400+ commits" />
